@@ -1,18 +1,93 @@
-# 💫 About Me:
-I am an incoming Software Engineering student  with a clear and solid goal: becoming a proficient **Backend Developer**. <br><br>Currently, I am heavily focused on mastering Java for core backend logic and leveraging Python to build intelligent automations. I enjoy exploring data structures, relational databases, and finding smart ways to optimize workflows..
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20Arthur%20Dornas%20GitHub&fontSize=35&fontColor=ffffff&color=0:0F2027,50:203A43,100:2C5364"/>
+</p>
 
+<p align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arthuurds/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-dornas-8971663a8/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurdornas1@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-dornas-8971663a8/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USERNAME)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arthuurds&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Arthuurds&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arthuurds&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arthuurds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 Arthur Dornas
+
+### Software Engineering Student | Backend Developer
+
+Sou estudante de **Engenharia de Software na PUC Minas**.
+
+Tenho como objetivo construir aplicações robustas utilizando **Java**, **Spring Boot** e **MySQL**, sempre aplicando boas práticas de desenvolvimento, arquitetura de software e Programação Orientada a Objetos.
+
+Atualmente estou desenvolvendo meu portfólio para conquistar minha primeira oportunidade como desenvolvedor Backend.
+
+---
+
+# ⚙️ Technologies
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+</p>
+
+---
+
+# 📊 Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="left" width="220" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+```text
+🎓 Engenharia de Software — PUC Minas
+
+💻 Foco:
+   • Backend
+   • Java
+   • Spring Boot
+   • APIs REST
+   • MySQL
+
+🚀 Objetivo:
+   Conseguir meu primeiro estágio
+   como Desenvolvedor Backend.
+
+📚 Atualmente estudando:
+   • Spring Boot
+   • JDBC
+   • SQL
+   • Git
