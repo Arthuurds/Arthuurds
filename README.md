@@ -1,93 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20Arthur%20Dornas%20GitHub&fontSize=35&fontColor=ffffff&color=0:0F2027,50:203A43,100:2C5364"/>
+  <img src="image/banner.png" width="100%"/>
 </p>
+<p <div style="display: flex;" align="center">
+  <a href="https://www.linkedin.com/in/alejandro-noguera-297bb726b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pin.it/1o3t0PEuc" target="_blank"><img src="https://img.shields.io/badge/Pinterest-141210?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandronoguera465@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-141210?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<h2 align="center"><i>Technologies</i></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-141210?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-141210?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-F3B211?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-F3B211?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-C9850D?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-C2935B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<h2 align="center">
+  <i>Statistics</i>
+</h2>
 
 <p align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-dornas-8971663a8/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USERNAME)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthuurds&bg_color=141210&color=C2935B&line=C9850D&point=F3B211&area=true&hide_border=false" width="100%"/>
 </p>
 
----
+<br/>
 
-# 👨‍💻 Arthur Dornas
+<h2 align="center"> 
+  <i>About Me & Hobbies</i> 
+</h2>
 
-### Software Engineering Student | Backend Developer
+<img src="https://play.pokemonshowdown.com/sprites/xyani/raichu.gif" width="120" align="right" style="margin-left: 20px;" />
 
-Sou estudante de **Engenharia de Software na PUC Minas**.
-
-Tenho como objetivo construir aplicações robustas utilizando **Java**, **Spring Boot** e **MySQL**, sempre aplicando boas práticas de desenvolvimento, arquitetura de software e Programação Orientada a Objetos.
-
-Atualmente estou desenvolvendo meu portfólio para conquistar minha primeira oportunidade como desenvolvedor Backend.
-
----
-
-# ⚙️ Technologies
-
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
+<p>
+  Hello! My name is <b>Arthur Dronas</b>, and I am a Software Engineering student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>Python,HTML5,CSS, Java, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
 </p>
 
----
-
-# 📊 Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+  Software Engineering student at Fametro. <br>
+  <i>"A man without studies is an incomplete being"</i> — <b>Simón Bolívar</b>.
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 👨‍💻 About Me
-
-<img align="left" width="220" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-```text
-🎓 Engenharia de Software — PUC Minas
-
-💻 Foco:
-   • Backend
-   • Java
-   • Spring Boot
-   • APIs REST
-   • MySQL
-
-🚀 Objetivo:
-   Conseguir meu primeiro estágio
-   como Desenvolvedor Backend.
-
-📚 Atualmente estudando:
-   • Spring Boot
-   • JDBC
-   • SQL
-   • Git
+<br clear="all" />
+</div>
