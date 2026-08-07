@@ -15,7 +15,7 @@
 <h2 align="center"> 
   <i>About Me & Hobbies</i> 
 </h2>
-
+<img src="https://tenor.com/view/computer-pixel-90s-pc-pixels-gif-13326856398514221079" width="120" align="right" style="margin-left: 20px;" />
 
 <p>
   Hello! My name is <b>Arthur Dornas</b>, and I am a Software Engineering student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>Python,HTML5,CSS, Java, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
