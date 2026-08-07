@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=280&section=header&text=Welcome%20to%20Arthur's%20Github&desc=Backend%20Developer&fontSize=48&descSize=24&fontAlignY=38&descAlignY=62&fontFamily=Amatic%20SC&animation=fadeIn" width="100%" alt="Welcome to Arthur's Github" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=230&section=header&text=Welcome%20to%20Arthur's%20Github&fontSize=48&fontAlignY=50&fontFamily=Amatic%20SC&animation=fadeIn" width="100%" alt="Welcome to Arthur's Github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Backend+Developer;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p <div style="display: flex;" align="center">
   <a href="https://www.linkedin.com/in/arthur-dornas-8971663a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arthurdornas1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-141210?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/arthuurds/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-141210?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <h2 align="center"> 
