@@ -13,7 +13,7 @@
 
 
 <p>
-  Hello! My name is <b>Arthur Dronas</b>, and I am a Software Engineering student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>Python,HTML5,CSS, Java, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
+  Hello! My name is <b>Arthur Dornas</b>, and I am a Software Engineering student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>Python,HTML5,CSS, Java, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
 </p>
 
 <p>
