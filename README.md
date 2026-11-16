@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Arthur Dornas — Desenvolvedor Back-end · Java · Spring Boot · Python" width="100%" />
+<img src="./assets/cabecalho.svg" alt="Arthur Dornas — Desenvolvedor Back-end · Java · Spring Boot · Python" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-dornas/"><img src="https://img.shields.io/badge/LINKEDIN-arthur--dornas-4d6dff?style=for-the-badge&logo=linkedin&logoColor=4d6dff&labelColor=0b0d12" alt="LinkedIn" /></a>
